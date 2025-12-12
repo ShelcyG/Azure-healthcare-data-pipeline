@@ -28,29 +28,41 @@ Azure Synapse Analytics (Analytics)
 
 **⏳Phase 1: Azure Data Factory** 
 Goals:
+
 ETL pipeline fundamentals
+
 Data ingestion patterns
+
 Pipeline orchestration
+
 Monitoring and debugging
 
 **⏳ Phase 2: Databricks & PySpark (Days 13-24)**
 Goals:
 PySpark data transformations
+
 Medallion architecture (Bronze/Silver/Gold)
+
 Delta Lake implementation
+
 Performance optimization
 
 **⏳ Phase 3: Synapse Analytics (Days 25-36)**
 Goals:
 Data warehouse design
+
 Star schema modeling
+
 T-SQL analytics
+
 Performance tuning
 
 **⏳ Phase 4: End-to-End Integration (Days 37-45)**
 Goals:
 Complete pipeline automation
+
 Data quality validation
+
 Final healthcare analytics dashboard
 
 **📂 Repository Structure**
