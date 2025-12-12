@@ -1,10 +1,11 @@
 # Azure-healthcare-data-pipeline
 End-to-end healthcare data pipeline using Azure Data Factory, Databricks, and Synapse Analytics. 45-day learning project showcasing ETL, data transformation, and analytics.
 Healthcare Analytics Pipeline - Azure End-to-End Data Engineering
-📊 Project Overview
+📊 **Project Overview**
 Building a complete healthcare data analytics pipeline from scratch using Azure cloud services. This project demonstrates end-to-end data engineering skills including data ingestion, transformation, and analytics.
 Timeline: 45 Days
-🛠️ Technologies Used
+
+**🛠️ Technologies Used**
 
 Azure Data Factory - Data ingestion and orchestration
 Azure Databricks - Data transformation with PySpark
@@ -12,7 +13,7 @@ Azure Synapse Analytics - Data warehousing and analytics
 Delta Lake - ACID transactions and data versioning
 Azure Data Lake Gen2 - Data storage
 
-🏗️ Architecture
+**🏗️ Architecture**
 Healthcare Data Files
         ↓
 Azure Data Factory (Ingestion)
@@ -22,36 +23,37 @@ Data Lake Storage (Bronze → Silver → Gold)
 Azure Databricks (Transformation)
         ↓
 Azure Synapse Analytics (Analytics)
-📅 Project Phases
 
-⏳Phase 1: Azure Data Factory 
+**📅 Project Phases**
+
+**⏳Phase 1: Azure Data Factory** 
 Goals:
 ETL pipeline fundamentals
 Data ingestion patterns
 Pipeline orchestration
 Monitoring and debugging
 
-⏳ Phase 2: Databricks & PySpark (Days 13-24)
+**⏳ Phase 2: Databricks & PySpark (Days 13-24)**
 Goals:
 PySpark data transformations
 Medallion architecture (Bronze/Silver/Gold)
 Delta Lake implementation
 Performance optimization
 
-⏳ Phase 3: Synapse Analytics (Days 25-36)
+**⏳ Phase 3: Synapse Analytics (Days 25-36)**
 Goals:
 Data warehouse design
 Star schema modeling
 T-SQL analytics
 Performance tuning
 
-⏳ Phase 4: End-to-End Integration (Days 37-45)
+**⏳ Phase 4: End-to-End Integration (Days 37-45)**
 Goals:
 Complete pipeline automation
 Data quality validation
 Final healthcare analytics dashboard
 
-📂 Repository Structure
+**📂 Repository Structure**
 azure-healthcare-data-pipeline/
 ├── README.md                    # This file
 ├── day01/                       # Daily progress folders
@@ -60,7 +62,7 @@ azure-healthcare-data-pipeline/
 ...
 └── day45/
 
-🎯Outcomes
+**🎯Outcomes**
 
 By the end of this project, I will have:
 
@@ -69,7 +71,7 @@ Implemented medallion architecture
 Created a healthcare analytics warehouse
 Demonstrated end-to-end Azure data engineering skills
 
-📈 Daily Progress
+**📈 Daily Progress**
 Click on any day to see detailed notes, code, and screenshots:
 Week 1:
 
