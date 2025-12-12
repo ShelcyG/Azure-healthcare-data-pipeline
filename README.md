@@ -1,6 +1,6 @@
 # Azure-healthcare-data-pipeline
 End-to-end healthcare data pipeline using Azure Data Factory, Databricks, and Synapse Analytics. 45-day learning project showcasing ETL, data transformation, and analytics.
-Healthcare Analytics Pipeline - Azure End-to-End Data Engineering
+
 📊 **Project Overview**
 Building a complete healthcare data analytics pipeline from scratch using Azure cloud services. This project demonstrates end-to-end data engineering skills including data ingestion, transformation, and analytics.
 Timeline: 45 Days
@@ -88,12 +88,13 @@ Click on any day to see detailed notes, code, and screenshots:
 Week 1:
 
 Day 1: Azure Setup ✅
+
 Day 2: ADF Interface ✅
+
 Day 3: Linked Services ⬜
 
 (Updated daily)
+
 🔗 Resources
 
-Microsoft Learn: Azure Data Factory
-Databricks Academy
-Azure Synapse Documentation
+Microsoft Learn: Azure Data Factory,Databricks Academy,Azure Synapse Documentation
