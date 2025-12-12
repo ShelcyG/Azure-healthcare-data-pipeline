@@ -31,14 +31,6 @@ Data ingestion patterns
 Pipeline orchestration
 Monitoring and debugging
 
-Progress:
-
-✅ Day 1 - Azure environment setup
-✅ Day 2 - ADF interface and dummy pipelines
-⬜ Day 3 - Linked services
-⬜ Day 4 - Datasets and dataflows
-⬜ Days 5-12
-
 ⏳ Phase 2: Databricks & PySpark (Days 13-24)
 Goals:
 PySpark data transformations
@@ -67,7 +59,9 @@ azure-healthcare-data-pipeline/
 ├── day03/
 ...
 └── day45/
+
 🎯Outcomes
+
 By the end of this project, I will have:
 
 Built production-ready data pipelines
