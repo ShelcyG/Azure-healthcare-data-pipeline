@@ -37,21 +37,6 @@
 
 ---
 
-## 📸 Screenshots
-
-![Resource Group Created](screenshot1.png)
-*Screenshot showing RG-Healthcare-Project resource group*
-
-![Storage Account](screenshot2.png)
-*Screenshot showing healthdata123 storage account details*
-
-![Data Factory Instance](screenshot3.png)
-*Screenshot showing FirstDf-project data factory*
-
-
-
----
-
 ## 💡 Key Takeaways
 
 - **Most important thing I learned today:** Azure uses a hierarchy: Subscription → Resource Group → Services. Understanding this structure is fundamental.
